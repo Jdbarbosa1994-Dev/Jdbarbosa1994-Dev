@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Sobre mim
 
-<!--
-**Jdbarbosa1994-Dev/Jdbarbosa1994-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em aprendizado, focado em Python e desenvolvimento de sistemas. Tenho interesse em backend, automação e criação de aplicações web. Estou em constante evolução, desenvolvendo projetos práticos para aprimorar minhas habilidades em programação e resolução de problemas.
 
-Here are some ideas to get you started:
+Atualmente estudo desenvolvimento de sistemas com foco em lógica de programação, criação de APIs e manipulação de bancos de dados, aplicando isso em projetos como sistemas de estoque e aplicações web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Objetivo
+
+Meu objetivo é me tornar um desenvolvedor backend e conquistar minha primeira oportunidade na área de tecnologia, atuando no desenvolvimento de sistemas eficientes, escaláveis e bem estruturados.
+
+🛠️ Tecnologias em aprendizado
+Python
+Flask
+SQLite / MySQL
+HTML
+CSS
+Git & GitHub
